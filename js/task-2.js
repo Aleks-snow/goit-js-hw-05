@@ -34,7 +34,6 @@ const allUsers = [
 ];
 
 console.log(getUsersWithFriend(allUsers, "Briana Decker")); 
-// Очікуваний результат:
 // [
 //   {
 //     name: "Sharlene Bush",
@@ -47,7 +46,6 @@ console.log(getUsersWithFriend(allUsers, "Briana Decker"));
 // ]
 
 console.log(getUsersWithFriend(allUsers, "Goldie Gentry"));
-// Очікуваний результат:
 // [
 //   {
 //     name: "Elma Head",
@@ -60,5 +58,4 @@ console.log(getUsersWithFriend(allUsers, "Goldie Gentry"));
 // ]
 
 console.log(getUsersWithFriend(allUsers, "Adrian Cross")); 
-// Очікуваний результат:
 // []
